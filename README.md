@@ -24,10 +24,23 @@ http.createServer((req, res) => {
 
 ## NOTIFICATIONS
 
-* `2021-10-20 20:02` Site updated on branch `master` [7852297](https://github.com/liella-gen2/liella-gen2.github.io/commit/7852297ef2136acb77a023da8a2fb05585e9c638)
+* `2021-10-21 01:10:57` Site updated on branch [`master`](https://github.com/liella-gen2/liella-gen2.github.io/tree/master) [`#2db76e5`](https://github.com/liella-gen2/liella-gen2.github.io/commit/2db76e5c29e7658a5447714371b1de26027d6bd5)
+  1. Page added! (增加页面): [`/tags/`](https://liella-gen2.github.io/tags/)
+  2. Page added! (增加页面): [`/categories/`](https://liella-gen2.github.io/categories/)
+  3. Page added! (增加页面): [`/search/`](https://liella-gen2.github.io/search/)
+  4. Tags added! (设置Tags):
+     [`Chihori (涩谷 千穗理)`](https://liella-gen2.github.io/tags/Chihori-涩谷-千穗理/)
+     [`Chisato (岚 千砂都)`](https://liella-gen2.github.io/tags/Chisato-岚-千砂都/)
+     [`Kanako (涩谷 香菜子)`](https://liella-gen2.github.io/tags/Kanako-涩谷-香菜子/)
+     [`Kanon (涩谷 香音)`](https://liella-gen2.github.io/tags/Kanon-涩谷-香音/)
+     [`Kuku (唐 可可)`](https://liella-gen2.github.io/tags/Kuku-唐-可可/)
+     Otoha (涩谷 音羽)
+     Ren (叶月 恋)
+     Sou (平安名 薮)
+     Sumire (平安名 堇)
 
-  * Page added: https://liella-gen2.github.io/2021/10/20/test/
+* `2021-10-20 20:02:38` Site updated on branch [`master`](https://github.com/liella-gen2/liella-gen2.github.io/tree/master) [`#7852297`](https://github.com/liella-gen2/liella-gen2.github.io/commit/7852297ef2136acb77a023da8a2fb05585e9c638)
+  1. Page added! (增加页面): [`/2021/10/20/test/`](https://liella-gen2.github.io/2021/10/20/test/)
 
 * `2021-10-20 12:44`
-
-  建立了公告板
+  1. 建立了公告板
