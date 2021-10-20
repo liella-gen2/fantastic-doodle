@@ -6,7 +6,7 @@ Hope you all enjoy our works!
 
 ## `(°∀°)ﾉ`
 
-```js 測試脚本噠！ https://liella-gen2.github.io/ 主頁傳送門
+```js
 const http = require("http");
 const hostname = "127.0.0.1";
 const port = 1337;
