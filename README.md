@@ -17,4 +17,5 @@ Hope you all enjoy our works!
 ## NOTIFICATIONS
 
 * `2021-10-20 12:44`
+
   建立了公告板
