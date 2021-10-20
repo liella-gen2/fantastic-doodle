@@ -1,6 +1,7 @@
 # Notifications of `Liella! Generation II`
 
 Here's the nontification board of `Liella! Generation II`
+
 Hope you all enjoy our works!
 
 ## `(°∀°)ﾉ`
@@ -11,8 +12,6 @@ Hope you all enjoy our works!
     liella.restart("Generation II!");
     })();
 ```
-
-***
 
 ## NOTIFICATIONS
 
