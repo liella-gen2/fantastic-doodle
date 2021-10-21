@@ -39,6 +39,8 @@ http.createServer((req, res) => {
      [`#Sou (平安名 薮)`](https://liella-gen2.github.io/tags/Sou-平安名-薮/)
      [`#Sumire (平安名 堇)`](https://liella-gen2.github.io/tags/Sumire-平安名-堇/)
   5. 设计了模仿[萌娘百科](https://zh.moegirl.org.cn/)的黑幕功能
+     ![仿萌娘百科黑幕，hidiv-demo.jpeg](https://github.com/liella-gen2/notifications/blob/main/hidiv-demo.jpeg?raw=true)
+     ![仿萌娘百科黑幕（hover激活状态），hidiv-hover.jpeg](https://github.com/liella-gen2/notifications/blob/main/hidiv-hover.jpeg?raw=true)
 
 * `2021-10-20 20:02:38` Site updated on branch [`master`](https://github.com/liella-gen2/liella-gen2.github.io/tree/master) [`#7852297`](https://github.com/liella-gen2/liella-gen2.github.io/commit/7852297ef2136acb77a023da8a2fb05585e9c638)
   1. Page added! (增加页面): [`/2021/10/20/test/`](https://liella-gen2.github.io/2021/10/20/test/)
