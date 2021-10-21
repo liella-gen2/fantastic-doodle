@@ -28,7 +28,7 @@ http.createServer((req, res) => {
   1. Page added! (增加页面): [`/tags/`](https://liella-gen2.github.io/tags/)
   2. Page added! (增加页面): [`/categories/`](https://liella-gen2.github.io/categories/)
   3. Page added! (增加页面): [`/search/`](https://liella-gen2.github.io/search/)
-  4. Tags added! (设置Tags):
+  4. Tags added! (设置Tags):\
      [`#Chihori (涩谷 千穗理)`](https://liella-gen2.github.io/tags/Chihori-涩谷-千穗理/)
      [`#Chisato (岚 千砂都)`](https://liella-gen2.github.io/tags/Chisato-岚-千砂都/)
      [`#Kanako (涩谷 香菜子)`](https://liella-gen2.github.io/tags/Kanako-涩谷-香菜子/)
@@ -38,8 +38,10 @@ http.createServer((req, res) => {
      [`#Ren (叶月 恋)`](https://liella-gen2.github.io/tags/Ren-叶月-恋/)
      [`#Sou (平安名 薮)`](https://liella-gen2.github.io/tags/Sou-平安名-薮/)
      [`#Sumire (平安名 堇)`](https://liella-gen2.github.io/tags/Sumire-平安名-堇/)
-  5. 设计了模仿[萌娘百科](https://zh.moegirl.org.cn/)的黑幕功能
+  5. 设计了模仿[萌娘百科](https://zh.moegirl.org.cn/)的黑幕功能\
+     基础状态:
      ![仿萌娘百科黑幕，hidiv-demo.jpeg](https://github.com/liella-gen2/notifications/blob/main/hidiv-demo.jpeg?raw=true)
+     指针停留上方:
      ![仿萌娘百科黑幕（hover激活状态），hidiv-hover.jpeg](https://github.com/liella-gen2/notifications/blob/main/hidiv-hover.jpeg?raw=true)
 
 * `2021-10-20 20:02:38` Site updated on branch [`master`](https://github.com/liella-gen2/liella-gen2.github.io/tree/master) [`#7852297`](https://github.com/liella-gen2/liella-gen2.github.io/commit/7852297ef2136acb77a023da8a2fb05585e9c638)
