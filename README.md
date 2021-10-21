@@ -24,7 +24,7 @@ and [Source](https://github.com/liella-gen2/notifications/) on [our GitHub](http
      [`#Ren (叶月 恋)`](https://liella-gen2.github.io/tags/Ren-叶月-恋/)
      [`#Sou (平安名 薮)`](https://liella-gen2.github.io/tags/Sou-平安名-薮/)
      [`#Sumire (平安名 堇)`](https://liella-gen2.github.io/tags/Sumire-平安名-堇/)
-  5. 设计了模仿[萌娘百科](https://zh.moegirl.org.cn/)的黑幕功能\
+  5. 基于CSS设计了模仿[萌娘百科](https://zh.moegirl.org.cn/)的黑幕功能\
      基础状态:
      ![仿萌娘百科黑幕，hidiv-demo.jpeg](https://github.com/liella-gen2/notifications/blob/main/hidiv-demo.jpeg?raw=true)
      指针停留上方:
