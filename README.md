@@ -6,6 +6,8 @@ Hope you all enjoy our works!
 
 ## [`Main Site (主站传送门): https://liella-gen2.github.io/`](https://liella-gen2.github.io/)
 
+and [Source](https://github.com/liella-gen2/notifications/) on [our GitHub](https://github.com/liella-gen2/)
+
 ## NOTIFICATIONS
 
 * `2021-10-21 01:10:57` Site updated on branch [`master`](https://github.com/liella-gen2/liella-gen2.github.io/tree/master) [`#2db76e5`](https://github.com/liella-gen2/liella-gen2.github.io/commit/2db76e5c29e7658a5447714371b1de26027d6bd5)
